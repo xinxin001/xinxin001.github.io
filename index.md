@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+McGill University September 2018 - December 2021
 
-You can use the [editor on GitHub](https://github.com/xinxin001/xinxin001.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+B.Sc. in Computer Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Employment Experience
 
-### Markdown
+### UMAknow
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Software Intern, January 2020 – August 2020**
 
-```markdown
-Syntax highlighted code block
+- Created websites and tools on the **Microsoft Sharepoint** platform
+- Developed better documentation reading/writing skills and more rigorous project organization skills, after working with **Microsoft SPFx** and **TypeScript**
+- Developed the a platform to handle the recruiting process for the Commission Scolaire de la Baie-James using **Angular**. Also created a platform to handle their expenses and finances using **React**
+- Deployed applications on **Azure**
+- Developed better coding practices and conventions after being often helped, guided and code-reviewed by more experienced engineers and colleagues.
 
-# Header 1
-## Header 2
-### Header 3
+### CAE
 
-- Bulleted
-- List
+**Software Intern, June 2019 - August 2019**
 
-1. Numbered
-2. List
+- Directed and created an internal company tool called [OKR-Tool](https://github.com/xinxin001/OKR-Tool) alone, over the course of 2 months:
+  - Web tool used by supervisors to set objectives for their teams and for team members to track and update their progress. It has a **Basic Authentication login**, and other features and metrics requested by the team leader
+  - Created front-end using **ReactJS**. Created backend using **NodeJS/ExpressJS**. Deployed on the company private **IIS** server
+- Wrote scripts for the company database, added features and removed bugs from company web tools using **C#**
+- Familiarized myself with the AGILE and MVC development model and also learned working alongside experienced engineers
 
-**Bold** and _Italic_ and `Code` text
+## Projects
 
-[Link](url) and ![Image](src)
-```
+### Proper Park — Mobile App — PolyHx 2019 (First Place) ###
+[Devpost](devpost.com/software/proper-park-mw0h6e)
+- Built an app in a small group as part of Hackatown. Proper Park's goal is to decipher confusing parking signs with a single cellphone snapshot through Machine Learning
+- Experimented with **Phone Gap** but settled on **React Native** in order to create the mobile interface for **iOS and Android**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### SafeHouse — Web App — McGill Codejam 2019 (3rd Place IOT) ###
+[Devpost](https://devpost.com/software/safe-house)
+- SafeHouse uses your home security cameras to detect if any of your doors have been left unlocked and sends you a picture and report through your Google Assistant
+- Worked with **Pytorch, FastAI and DialogueFlow**(for Google Assistant)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xinxin001/xinxin001.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Artistic Animals — Web App — McGill Artificial Intelligence Society (WIP) ###
+[Github](https://github.com/xinxin001/ArtisticAnimals)
+- Generates synthetic images of animals using a **Generative Adversarial Network (GAN)**
+- Images can then be transformed into an art style using a **Convolutional Neural Network** style transfer (ex: Picasso)
