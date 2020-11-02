@@ -25,7 +25,7 @@ B.Sc. in Computer Science
 ### Artistic Animals — Web App — McGill Artificial Intelligence Society (WIP) ###
 [Github](https://github.com/xinxin001/ArtisticAnimals)
 
-[Blog](xinxin001.github.io/ArtisticAnimals)
+[Blog](/ArtisticAnimals)
 ![Preliminary Results](images/train-50.png)
 - Generates synthetic images of animals using a **Generative Adversarial Network (GAN)**
 - Images can then be transformed into an art style using a **Convolutional Neural Network** style transfer (ex: Picasso)
