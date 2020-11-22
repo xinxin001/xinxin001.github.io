@@ -26,17 +26,22 @@ B.Sc. in Computer Science
 [Github](https://github.com/xinxin001/ArtisticAnimals)  [Blog](/artisticanimals)
 ![Preliminary Results](images/train-50.png)
 - Generates synthetic images of animals using a **Generative Adversarial Network (GAN)**
+- Currently attempting to implement BigGAN
 - Images can then be transformed into an art style using a **Convolutional Neural Network** style transfer (ex: Picasso)
+
+### Largest Digit Classifier ###
+[Github](https://github.com/xinxin001/LargestDigitClassifier)
+![example1](images/classifier/index.png)
+![example2](images/classifier/0.png)
+- Classifier that can detect the largest digit on an image with multiple handwritten digits
+- Image data preprocessing using **OpenCV** to remove the noise and augment contrast, Keras to do data augmentation
+- Attempted using **Transfer Learning** with VGG16, but ran out of time, used **Convolutional Neural Network** instead
+- Accuracy of around 96% with more epochs and data augmentation
 
 ### Proper Park — Mobile App — PolyHx 2019 (First Place) ###
 [Devpost](devpost.com/software/proper-park-mw0h6e)
 - Built an app in a small group as part of Hackatown. Proper Park's goal is to decipher confusing parking signs with a single cellphone snapshot through Machine Learning
 - Experimented with **Phone Gap** but settled on **React Native** in order to create the mobile interface for **iOS and Android**
-
-### SafeHouse — Web App — McGill Codejam 2019 (3rd Place IOT) ###
-[Devpost](https://devpost.com/software/safe-house)
-- SafeHouse uses your home security cameras to detect if any of your doors have been left unlocked and sends you a picture and report through your Google Assistant
-- Worked with **Pytorch, FastAI and DialogueFlow**(for Google Assistant)
 
 ### Legends of Andor — Unity Multiplayer Game ###
 [Github](https://github.com/xinxin001/LegendsOfAndor)
@@ -49,3 +54,8 @@ B.Sc. in Computer Science
   - Multiple enemy types
   - Usable items, gold, and inventory
   - Main questline, random events, and fog of war
+
+### SafeHouse — Web App — McGill Codejam 2019 (3rd Place IOT) ###
+[Devpost](https://devpost.com/software/safe-house)
+- SafeHouse uses your home security cameras to detect if any of your doors have been left unlocked and sends you a picture and report through your Google Assistant
+- Worked with **Pytorch, FastAI and DialogueFlow**(for Google Assistant)
