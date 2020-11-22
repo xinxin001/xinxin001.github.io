@@ -1,5 +1,7 @@
 McGill University September 2018 - May 2022  
-B.Sc. in Computer Science
+B.Sc. in Computer Science  
+McGill Artificial Intelligence Club
+
 
 ## Employment Experience
 
