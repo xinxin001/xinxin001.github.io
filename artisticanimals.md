@@ -1,6 +1,6 @@
 # Artistic Animals Blog #
 
-## 3 November 2020 ##
+## 7 November 2020 ##
 ![train](/images/gan/train-129.png)
 I am going to try implementing a DCGGAN, as it seems the regular GAN is too unstable, DCGAN is said to be more stable and be able to generate higher quality images, and it can be used for style transfer, which fits my broader goals. However, the results are not very convincing either. I think I need to focus more on hyperparameter tuning.
 
