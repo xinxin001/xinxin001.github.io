@@ -25,8 +25,8 @@ McGill Artificial Intelligence Society
 ## Projects
 
 ### Artistic Animals — Web App — McGill Artificial Intelligence Society (WIP) ###
-[Github](https://github.com/xinxin001/ArtisticAnimals)  [Blog](/artisticanimals)
-[Demo](https://github.com/xinxin001/ArtisticAnimalsWebApp)
+[Github](https://github.com/xinxin001/ArtisticAnimals)  [Blog](/artisticanimals)  
+[Demo](https://xinxin001.github.io/ArtisticAnimalsWebApp/)
 ![Preliminary Results](images/train-50.png)
 - Generates synthetic images of animals using a **Generative Adversarial Network (GAN)**
 - Currently attempting to implement BigGAN
