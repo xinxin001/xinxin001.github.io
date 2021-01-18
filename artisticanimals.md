@@ -1,7 +1,10 @@
 # Artistic Animals Blog #
 
+## 5 December 2020 ##
+I've deployed the model on a simple Flask and React app, and you can access its predictions [here](https://xinxin001.github.io/ArtisticAnimalsWebApp/)
+
 ## 4 December 2020 ## 
-![train](/images/gan/final-output-train.png)
+![train](/images/gan/final-output-sample.png)
 Final implementation of the model used Spectral Normalization and Convolutional Neural Networks for both the Discriminator and the Generator. I've been mostly dealing with problems managing the resources on Google Colab and Kaggle(exceeding RAM usage, training time, etc...). I've since scaled down on the resolution. After multiple trainings averaging at 12hrs each. The results displayed have been the best I've got.
 
 ## 7 November 2020 ##
