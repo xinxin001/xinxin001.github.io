@@ -1,5 +1,9 @@
 # Artistic Animals Blog #
 
+## 4 December 2020 ## 
+![train](/images/gan/final-output-train.png)
+Final implementation of the model used Spectral Normalization and Convolutional Neural Networks for both the Discriminator and the Generator. I've been mostly dealing with problems managing the resources on Google Colab and Kaggle(exceeding RAM usage, training time, etc...). I've since scaled down on the resolution. After multiple trainings averaging at 12hrs each. The results displayed have been the best I've got.
+
 ## 7 November 2020 ##
 ![train](/images/gan/train-129.png)
 I am going to try implementing a DCGGAN, as it seems the regular GAN is too unstable, DCGAN is said to be more stable and be able to generate higher quality images, and it can be used for style transfer, which fits my broader goals. However, the results are not very convincing either. I think I need to focus more on hyperparameter tuning.
